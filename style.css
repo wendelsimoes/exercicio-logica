@@ -60,6 +60,10 @@ body {
   text-align: center;
 }
 
+.data-container {
+  padding-left: 2%;
+}
+
 @media (max-width: 600px) {
   .main-dialog {
     max-width: 95%;
